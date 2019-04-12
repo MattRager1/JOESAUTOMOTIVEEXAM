@@ -1,6 +1,6 @@
 ﻿namespace JOESAUTOMOTIVEEXAM
 {
-    partial class vehicle_Info
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.

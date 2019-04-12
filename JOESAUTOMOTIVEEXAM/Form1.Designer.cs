@@ -137,7 +137,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label2.Location = new System.Drawing.Point(190, 63);
+            this.label2.Location = new System.Drawing.Point(186, 62);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(93, 17);
             this.label2.TabIndex = 11;
@@ -162,7 +162,7 @@
             this.linkLabel2.Size = new System.Drawing.Size(94, 17);
             this.linkLabel2.TabIndex = 14;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "Vehical Table";
+            this.linkLabel2.Text = "Vehicle Table";
             // 
             // label7
             // 

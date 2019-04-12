@@ -10,7 +10,11 @@ using System.Windows.Forms;
 
 namespace JOESAUTOMOTIVEEXAM
 {
-    public partial class vehicle_Info : Form
+    public partial class Form2 : Form
     {
+        public Form2()
+        {
+            InitializeComponent();
+        }
     }
 }
